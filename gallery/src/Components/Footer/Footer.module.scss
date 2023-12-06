@@ -1,0 +1,54 @@
+.footer {
+    border-top: 10px dotted #fff;
+    padding: 2rem;
+    color: #fff;
+    width: 80%;
+    // max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    
+}
+
+.copyright {
+    font-size: 1.25rem;
+    
+
+
+    .c {
+       margin-left: 5px;
+       font-weight: bold;
+       color: #fff; 
+    }
+}
+
+
+.cr {
+    font-size: 1.25rem;
+
+
+    span {
+        font-size: 1.25rem;
+
+        .icon {
+            font-size: 1.25rem;
+        }
+    }
+}
+
+.text {
+    font-weight: bold;
+    color: #fff; 
+}
+
+
+
+
+
+
+
+
+
+
+
